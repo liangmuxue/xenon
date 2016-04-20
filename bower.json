@@ -1,0 +1,15 @@
+{
+  "name": "xenon",
+  "version": "1.0.0",
+  "main": [
+    "xenon.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
