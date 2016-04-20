@@ -5,7 +5,6 @@
     "xenon.js"
   ],
   "ignore": [
-    "**/.*",
     "node_modules",
     "components"
   ],
