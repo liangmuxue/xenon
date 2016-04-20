@@ -1,0 +1,14 @@
+{
+    "name": "xenon",
+    "version": "v1.0.0",
+    "description": "xenon library",
+    "main": "xenon-api.js",
+    "repository": {
+        "type": "https",
+        "url": "https://github.com/liangmuxue/xenon"
+    },
+    "author": "lmx",
+    "license": "MIT",
+    "readmeFilename": "README",
+    "keywords": ["xenon", "lmx"]
+}
